@@ -1,0 +1,31 @@
+.image{
+    height: 100%;
+    width: 50%;
+}
+.img{
+    object-fit: cover;
+}
+.contain{
+    height: 80vh;
+    width: 100%;
+}
+
+.text{
+    width: 50%;
+}
+
+.find{
+    font-weight: 500;
+    line-height: 4.8rem;
+    letter-spacing: 2px;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+
+.textDiv{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

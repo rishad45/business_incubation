@@ -1,0 +1,28 @@
+.totalBody {
+    background-image: linear-gradient(#FE753A,#FE902F); 
+    width: 100%;
+    height: 100vh
+}
+
+.pickText{
+    color: white;
+    text-align: center;
+}
+
+.slotBody{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.slotBody
+.slotDiv {
+    border: 0.5px solid white;
+    height: 35vh;
+    width: 12vw;
+}
+
+.slotDiv:hover{
+    transform: scale(1.1);
+    cursor: pointer 
+}
